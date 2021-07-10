@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02986985-618d-4955-8ddb-d461484db5c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../chogandanjava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AndOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BMICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Birthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DogFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EggCartonCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EggPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MartEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriceOfFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriceOfFood01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringToDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrapperTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/integerDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/chogandanjava/src3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Birthday.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_programming/Birthday.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/BlockComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/CharAndString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Escape01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Escape02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/HelloJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/LineComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/MartEvent01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/MartEvent02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/MyName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Number01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Number02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Number03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Sentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/SumOfMonthAndDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Variable01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Variable06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/HelloJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/MartEvent01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/MartEvent02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/MyName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/Sentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Birthday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/BlockComment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/CharAndString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Escape01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Escape02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/LineComment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Number01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Number02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Number03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/SumOfMonthAndDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src3/Variable01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src3/Variable06.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1uq2ieeWhPDU1BvwP3EDrAHonNW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BMICalculator">
+    <configuration name="BMICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BMICalculator" />
+      <module name="java_programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EggCartonCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EggCartonCounter" />
+      <module name="java_programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceOfFood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PriceOfFood" />
+      <module name="java_programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PriceOfFood01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PriceOfFood01" />
+      <module name="java_programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
+      <module name="java_programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BMICalculator" />
+        <item itemvalue="Application.EggCartonCounter" />
+        <item itemvalue="Application.PriceOfFood01" />
+        <item itemvalue="Application.PriceOfFood" />
+        <item itemvalue="Application.SwitchCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02986985-618d-4955-8ddb-d461484db5c6" name="Default Changelist" comment="" />
+      <created>1625378928746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625378928746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
