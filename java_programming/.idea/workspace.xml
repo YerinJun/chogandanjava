@@ -2,69 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02986985-618d-4955-8ddb-d461484db5c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../chogandanjava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AndOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BMICalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Birthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DogFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EggCartonCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EggPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exception1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MartEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PriceOfFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PriceOfFood01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringToDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Transfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WrapperTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/integerDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/chogandanjava/src3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Birthday.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_programming/Birthday.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/BlockComment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/CharAndString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Escape01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Escape02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/HelloJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/LineComment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/MartEvent01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/MartEvent02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/MyName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Number01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Number02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Number03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Sentence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/SumOfMonthAndDay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Variable01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Variable06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src1/HelloJava.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src1/MartEvent01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src1/MartEvent02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src1/MyName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src1/Sentence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Birthday.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/BlockComment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/CharAndString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Escape01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Escape02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/LineComment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Number01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Number02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Number03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/SumOfMonthAndDay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src3/Variable01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src3/Variable06.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1to6/Birthday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1to6/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1to6/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1to6/StringToDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part7/And.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part7/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part7/MonthToEnglish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part7/PriceOfFood02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/Gugudan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/PasswordInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/Scores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/ThreadSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/TwoDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/UpAndDownGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/AndOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/BMICalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Birthday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Boolean1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/DogFood.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/EggCartonCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/EggPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Exception1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/IF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/MartEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/PriceOfFood.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/PriceOfFood01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/String123.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/StringToDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/SwitchCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/Transfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/VariableExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/WrapperTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/integerDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_programming/operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/Adder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AndOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BMICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part7/BMICalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Birthday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Boolean1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/Boolean1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DogFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/DogFood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EggCartonCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part7/EggCartonCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EggPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/EggPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/Exception1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MartEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/MartEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriceOfFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part7/PriceOfFood01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriceOfFood01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/String123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringToDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part7/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/Transfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/VariableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WrapperTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/WrapperTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/integerDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/IntegerDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1to6/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/AgeOfGildong.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/BadVariableName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/Birthday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/BlockComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/CharAndString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/Escape01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/Escape02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/HelloJava.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/LineComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/MartEvent01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/MartEvent02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/MyName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/Number01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/Number02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/Number03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/Sentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/SumOfMonthAndDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/Variable01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/chogandanjava/Variable06.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,49 +128,92 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BMICalculator">
-    <configuration name="BMICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BMICalculator" />
+  <component name="RunManager" selected="Application.Scores">
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part8.ArraySum" />
       <module name="java_programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EggCartonCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EggCartonCounter" />
-      <module name="java_programming" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PriceOfFood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PriceOfFood" />
-      <module name="java_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PriceOfFood01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PriceOfFood01" />
+      <option name="MAIN_CLASS_NAME" value="part7.PriceOfFood01" />
       <module name="java_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
+    <configuration name="Scores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part8.Scores" />
       <module name="java_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadSleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part8.ThreadSleep" />
+      <module name="java_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part8.TwoDimensionalArray" />
+      <module name="java_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpAndDownGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part8.UpAndDownGame" />
+      <module name="java_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BMICalculator" />
-        <item itemvalue="Application.EggCartonCounter" />
-        <item itemvalue="Application.PriceOfFood01" />
-        <item itemvalue="Application.PriceOfFood" />
-        <item itemvalue="Application.SwitchCase" />
+        <item itemvalue="Application.Scores" />
+        <item itemvalue="Application.ArraySum" />
+        <item itemvalue="Application.UpAndDownGame" />
+        <item itemvalue="Application.ThreadSleep" />
+        <item itemvalue="Application.TwoDimensionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -175,5 +239,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_programming$WrapperTypes.ic" NAME="WrapperTypes Coverage Results" MODIFIED="1626075478579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
