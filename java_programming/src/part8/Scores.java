@@ -8,7 +8,7 @@ public class Scores {
         int[] scores = {90, 75, 30, 40};
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Which subjects score do you want to know? (korean, English, Math, Science)");
+        System.out.println("Which subjects score do you want to know? (Korean, English, Math, Science)");
 
         String inputSubject = scanner.nextLine();
 

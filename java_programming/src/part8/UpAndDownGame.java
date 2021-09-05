@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class UpAndDownGame {
     public static void main(String[] args) {
         System.out.println("Pick a number from 0 to 255.");
-        System.out.println("Can you guess what number i chose?");
+        System.out.println("Can you guess what number I chose?");
 
         Random random = new Random();
         int randomNumber = random.nextInt(256);
@@ -29,7 +29,7 @@ public class UpAndDownGame {
             }
 
             if (i == 7) {
-                System.out.println("Game end. the number is " + randomNumber);
+                System.out.println("Game over. the number was " + randomNumber);
             }
         }
 

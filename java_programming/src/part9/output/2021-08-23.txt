@@ -1,0 +1,6 @@
+날씨: rainy
+제목: rainy day
+this is journal programming
+which I didn't really build.
+I looked at code lines and typed them through trying to understand how it works.
+there's just so much to learn.

@@ -1,0 +1,36 @@
+########################################################################################################################
+##                                                                                                                    ##
+##                                                   Hunt the Wumpus                                                  ##
+##                                                                                                                    ##
+########################################################################################################################
+
+You came into a cave to hunt a monter named Wumpus.
+there are 20 rooms in the cave.
+Each room has 3 different ways to move to different rooms.
+
+Dangerous Factors.
+
+Pit:
+- There are two rooms with pits. these pits are so deep.
+- Once you fall down, You can't get out.
+- The rooms with pits has slightly different air flow.
+
+Bat:
+- There are three rooms with huge bats.
+- If you entered one of three rooms, Bat will throw you to different room then fly away.
+- Remember that random room the bat threw you could have another hazard.
+- Bats rub their wings no mater they move around or not.
+
+Wumpus
+
+Wumpus is horrible smelly monster that doesn't get affected by any dangerous factors of the cave.
+He has legs like octopus's. His body is too heavy for bats to carry him.
+Wumpus usually sleeps in the cave.
+If you shoot your arrow wrong way or towards Wumpus, He can wake up.
+After Wumpus wakes up, You have 3/4 of chances to move to different rooms.
+If you and Wumpus are in a same room, He will eat you.
+
+Player
+
+Each turn of the game, Either You move to different room connected to current room or shoot your old arrow.
+If you can't catch Wumpus within 5 shots, You fail to hunt Wumpus.
